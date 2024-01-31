@@ -8,11 +8,11 @@ import { getDataFromContentful } from "./utils/downloadData.js";
 
 // Table already created !
 //
-// function createTables(isTableCreated=true) {
+// async function createTables(isTableCreated=true) {
 //   if(!isTableCreated) {
-//     createRecipeTable();
-//     createMethodTable();
-//     createIngredientsTable();
+//     await createRecipeTable();
+//     await createMethodTable();
+//     await createIngredientsTable();
 //   }
 // }
 // createTables();
