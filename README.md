@@ -5,3 +5,5 @@ This repo contains some codes that
 3. insert data into it
 
 !! Since the image data is still stored in the contentful, we cannot delete the contentful!
+
+![DB structure idea](images/cookbook.png)
